@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##### This is an exapmle of a company website. It's fully responsive, modern and open source.
 # <a target="_blank" href="https://darkleas.github.io/company-website-reactjs/">Demo Link</a>
 # Lets see what we have in the website:
@@ -71,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Taxi-Driver
+ f81f8355721fca7a2aa9b24db99e39368a025bca
